@@ -21,10 +21,10 @@ MonoBehaviour:
     y: 30
     width: 1440
     height: 797
-  m_MinSize: {x: 678, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
+  m_MinSize: {x: 678, y: 471}
+  m_MaxSize: {x: 14000, y: 14021}
   vertical: 0
-  controlID: 35873
+  controlID: 38140
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -135,10 +135,10 @@ MonoBehaviour:
     y: 0
     width: 953
     height: 797
-  m_MinSize: {x: 402, y: 492}
-  m_MaxSize: {x: 10001, y: 14042}
+  m_MinSize: {x: 403, y: 471}
+  m_MaxSize: {x: 10000, y: 14021}
   vertical: 1
-  controlID: 35874
+  controlID: 38141
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -160,10 +160,10 @@ MonoBehaviour:
     y: 0
     width: 953
     height: 459
-  m_MinSize: {x: 402, y: 221}
-  m_MaxSize: {x: 8002, y: 4021}
+  m_MinSize: {x: 403, y: 221}
+  m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 35850
+  controlID: 38142
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -183,8 +183,8 @@ MonoBehaviour:
     y: 0
     width: 336
     height: 459
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 6}
   m_Panes:
   - {fileID: 6}
@@ -220,7 +220,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: c4f5fdff98f6fdffdefcfdff7015ffff7817ffffa217ffffc817ffff1618ffffe218ffffe6f6ffff54fbffff
+      m_ExpandedIDs: 82f4fdff8af4fdff8ef4fdff92f4fdff96f4fdff9af4fdffa2f4fdffa6f4fdffaaf4fdffb2f4fdffb6f4fdffbaf4fdffc2f4fdffc6f4fdffcaf4fdffd2f4fdffd6f4fdffdaf4fdffe2f4fdffe6f4fdffeaf4fdfff2f4fdfff6f4fdfffaf4fdff02f5fdff06f5fdff0af5fdff0ef5fdff16f5fdff1af5fdff1ef5fdff22f5fdff26f5fdff2af5fdff2ef5fdff36f5fdff3af5fdff3ef5fdff42f5fdff4af5fdff4ef5fdff56f5fdff5af5fdff5ef5fdff62f5fdff6af5fdff6ef5fdff76f5fdff7af5fdff7ef5fdff82f5fdff8af5fdff8ef5fdff92f5fdff96f5fdff9af5fdffc4f5fdff98f6fdffdefcfdff7015ffff7817ffffa217ffffc817ffff1618ffffe218ffffe6f6ffff54fbffff8a660000c4660000d2660000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -308,9 +308,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.5318985, y: 14.041756, z: 9.208183}
+    m_Target: {x: -2.8142014, y: 22.96003, z: 27.636543}
     speed: 2
-    m_Value: {x: 1.5318985, y: 14.041756, z: 9.208183}
+    m_Value: {x: -2.8142014, y: 22.96003, z: 27.636543}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -361,9 +361,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0.31337517, y: 0.37872675, z: -0.13803278, w: 0.8598309}
   m_Size:
-    m_Target: 22.768091
+    m_Target: 16.587412
     speed: 2
-    m_Value: 22.768091
+    m_Value: 16.587412
   m_Ortho:
     m_Target: 1
     speed: 2
