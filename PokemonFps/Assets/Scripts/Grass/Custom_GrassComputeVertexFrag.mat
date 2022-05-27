@@ -20,8 +20,8 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats:
-    - _AmbientAdjustment: 5.58
+    - _AmbientAdjustment: 0.56
     - _BlendFloor: 1
-    - _Fade: 1
+    - _Fade: -0.41
     m_Colors: []
   m_BuildTextureStacks: []
