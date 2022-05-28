@@ -30,6 +30,7 @@ public class Gun : MonoBehaviour
     {
 
       Target target = hit.transform.GetComponent<Target>();
+      Debug.Log(hit.transform.name);
 
       // !Skadar Target
       if (target != null)
@@ -37,7 +38,7 @@ public class Gun : MonoBehaviour
         target.TakeDamage(damage);
         GameObject effektGO2 = Instantiate(effect2, hit.point, Quaternion.identity);
         Destroy(effektGO2, 1f);
-        Score.scoreValue += 20;
+        // Score.scoreValue += 20;
       }
       else
       {

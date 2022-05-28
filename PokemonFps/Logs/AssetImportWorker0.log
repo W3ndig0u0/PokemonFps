@@ -1727,3 +1727,269 @@ Received Import Request.
 Start importing Assets/Scripts/Player/PlayerMovement.cs using Guid(7b6a5b95bc7ff441f93b9f87da837a45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d98c0386133a5ee0e478ea51a957471') in 0.014995 seconds 
   Import took 0.038512 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 514.316993 seconds.
+  path: Assets/Scripts/Enemy/Target.cs
+  artifactKey: Guid(0c146afca9d7045f9837b931ad9aef4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Enemy/Target.cs using Guid(0c146afca9d7045f9837b931ad9aef4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0defe77b6838432d3ce50dc8de10cadc') in 0.013314 seconds 
+  Import took 0.028298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 79.999002 seconds.
+  path: Assets/Scripts/Player/Gun.cs
+  artifactKey: Guid(af6ee25923eb1413b81d97e4528881d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player/Gun.cs using Guid(af6ee25923eb1413b81d97e4528881d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5133cedf272fc4e2c157d16a7ec1fbf3') in 0.043833 seconds 
+  Import took 0.123333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 128.464650 seconds.
+  path: Assets/Low Poly Guns
+  artifactKey: Guid(0fbe072b6828f49039fb5abca7bcc87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Guns using Guid(0fbe072b6828f49039fb5abca7bcc87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d6a6f420d2fa5d49324dc2ccde51a2b') in 0.003806 seconds 
+  Import took 0.023399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.073926 seconds.
+  path: Assets/Low Poly Guns/Materials
+  artifactKey: Guid(0111d8d74912ed140991cd6134b8300d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Guns/Materials using Guid(0111d8d74912ed140991cd6134b8300d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af1696e3d079a8c8faa03abe56440a07') in 0.001581 seconds 
+  Import took 0.004858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.102801 seconds.
+  path: Assets/Low Poly Guns/Materials/Plane.mat
+  artifactKey: Guid(e96fa539506a82f4097ae5999f559460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Guns/Materials/Plane.mat using Guid(e96fa539506a82f4097ae5999f559460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eeaf350d8c711d9c45649015a256d2e') in 1.416488 seconds 
+  Import took 1.422416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.275800 seconds.
+  path: Assets/Low Poly Guns/Models
+  artifactKey: Guid(bcb561bb3fcd38947adadb609bc8340b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Guns/Models using Guid(bcb561bb3fcd38947adadb609bc8340b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2536f18ef72f3fed612018fbf2031ab5') in 0.001134 seconds 
+  Import took 0.005282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.732396 seconds.
+  path: Assets/Low Poly Guns/Models/Guns
+  artifactKey: Guid(622949251c23ee64ba0b4df86da88911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Guns/Models/Guns using Guid(622949251c23ee64ba0b4df86da88911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e504eab9b465ada7007481dc6d5ef66b') in 0.001385 seconds 
+  Import took 0.004528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.516380 seconds.
+  path: Assets/Low Poly Guns/Models/Guns/assault1
+  artifactKey: Guid(7938b61606cd85d47bc3ce4b39eeb65d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Guns/Models/Guns/assault1 using Guid(7938b61606cd85d47bc3ce4b39eeb65d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '695f862e3a1eb10594b123f4c6004e7f') in 0.000849 seconds 
+  Import took 0.004325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.117550 seconds.
+  path: Assets/Low Poly Guns/Models/Guns/assault1/assault1.fbx
+  artifactKey: Guid(33269b2b610f4c245a712795c1927939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Guns/Models/Guns/assault1/assault1.fbx using Guid(33269b2b610f4c245a712795c1927939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6675d365cc626a8e1071eeaf21df766') in 1.074235 seconds 
+  Import took 1.080600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Low Poly Guns/Models/Guns/assault1/assault1_normal.png
+  artifactKey: Guid(b5ce058bdf628bb4bb3304265b2ab7f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Guns/Models/Guns/assault1/assault1_normal.png using Guid(b5ce058bdf628bb4bb3304265b2ab7f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '746eafb1acf315c009ae50dbf7f01e19') in 0.728345 seconds 
+  Import took 0.733451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Low Poly Guns/Models/Guns/assault1/assault1_diffuse.png
+  artifactKey: Guid(89fc40a82916a0c449b689ff792cbaba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Guns/Models/Guns/assault1/assault1_diffuse.png using Guid(89fc40a82916a0c449b689ff792cbaba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa47e039a67bfb6bea7fb4fa49e8f6ed') in 0.013198 seconds 
+  Import took 0.017682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000526 seconds.
+  path: Assets/Low Poly Guns/Models/Guns/assault1/assault1.mat
+  artifactKey: Guid(c588de1bd0ae27543958b38850e54921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Guns/Models/Guns/assault1/assault1.mat using Guid(c588de1bd0ae27543958b38850e54921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1db61d0b6264c684df8255c92245ca2') in 0.020895 seconds 
+  Import took 0.024721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.456274 seconds.
+  path: Assets/Low Poly Guns/Models/Guns/assault2
+  artifactKey: Guid(16bc82123c94e4b4c8d845cf2517805a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Guns/Models/Guns/assault2 using Guid(16bc82123c94e4b4c8d845cf2517805a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad9f3446067d5613b04893d60716e088') in 0.001324 seconds 
+  Import took 0.004372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.624612 seconds.
+  path: Assets/Low Poly Guns/Scenes
+  artifactKey: Guid(6c390335ec865d140acc28c52f65e038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Guns/Scenes using Guid(6c390335ec865d140acc28c52f65e038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff7afd1b7124925646fbabf87cb94dad') in 0.001006 seconds 
+  Import took 0.003671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.672395 seconds.
+  path: Assets/Low Poly Guns/Scripts
+  artifactKey: Guid(b6c061788de12f54ea6672a16627499a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Guns/Scripts using Guid(b6c061788de12f54ea6672a16627499a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f016a43ff76584129408ab58eb46ce5f') in 0.001836 seconds 
+  Import took 0.011989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.594491 seconds.
+  path: Assets/Low Poly Guns/Models/Guns/assault2/assault2.fbx
+  artifactKey: Guid(6bea03a7115c5d748b18a7573d0d4d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Guns/Models/Guns/assault2/assault2.fbx using Guid(6bea03a7115c5d748b18a7573d0d4d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbaf19a33e354f20672efb70f65d040a') in 0.046417 seconds 
+  Import took 0.050118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/Low Poly Guns/Models/Guns/assault2/assault2.mat
+  artifactKey: Guid(35a5af17f562eb044a809af0526a562f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Guns/Models/Guns/assault2/assault2.mat using Guid(35a5af17f562eb044a809af0526a562f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38dede9f0ba94887de2a120671e6ce4d') in 0.030649 seconds 
+  Import took 0.034840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Low Poly Guns/Models/Guns/assault2/assault2_diffuse.png
+  artifactKey: Guid(f699987dc2b8fa147bed02b5fb7dd2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Guns/Models/Guns/assault2/assault2_diffuse.png using Guid(f699987dc2b8fa147bed02b5fb7dd2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f45be95ce5569615ab0f1d7e25d54a31') in 0.041985 seconds 
+  Import took 0.046522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/Low Poly Guns/Models/Guns/assault2/assault2_normal.png
+  artifactKey: Guid(f682931156928fc4e960b020752b0c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Guns/Models/Guns/assault2/assault2_normal.png using Guid(f682931156928fc4e960b020752b0c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a81f872f07b3faa7041d4bdbcc8e0a1') in 0.016724 seconds 
+  Import took 0.020257 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002598 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-05-28 15:47:08.886 Unity[1859:26316] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000006795e0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  2.857 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2863ms)
+		BeginReloadAssembly (360ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (55ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (142ms)
+		EndReloadAssembly (2390ms)
+			LoadAssemblies (270ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (425ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (1283ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (18ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (195ms)
+				ProcessInitializeOnLoadAttributes (1029ms)
+				ProcessInitializeOnLoadMethodAttributes (36ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (52ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1505 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 216.5 MB.
+System memory in use after: 216.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2114.
+Total: 5.477792 ms (FindLiveObjects: 0.837292 ms CreateObjectMapping: 0.063792 ms MarkObjects: 4.511292 ms  DeleteObjects: 0.061708 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004477 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.00 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-05-28 15:50:19.583 Unity[1859:26316] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x60000063f8e0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  2.674 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2678ms)
+		BeginReloadAssembly (434ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (44ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (112ms)
+		EndReloadAssembly (2131ms)
+			LoadAssemblies (370ms)
+			RebuildTransferFunctionScriptingTraits (1ms)
+			SetupTypeCache (391ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (1148ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (190ms)
+				ProcessInitializeOnLoadAttributes (908ms)
+				ProcessInitializeOnLoadMethodAttributes (29ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (34ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1505 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 216.7 MB.
+System memory in use after: 216.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2116.
+Total: 5.391834 ms (FindLiveObjects: 1.265000 ms CreateObjectMapping: 0.058375 ms MarkObjects: 4.031375 ms  DeleteObjects: 0.034583 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
