@@ -9,7 +9,8 @@ public class Target : MonoBehaviour
   public float health;
   public float getScoreFromKill;
   public float maxHealth = 100;
-
+  public bool dead = false;
+  
   void Start()
   {
     // !Sätter max liv o Health bar
@@ -33,7 +34,9 @@ public class Target : MonoBehaviour
   {
     // !Dör
     gameObject.transform.rotation = Quaternion.Euler(-90, transform.rotation.x, transform.rotation.y);
-    // Destroy(gameObject);
+    dead = true;
+
+    Destroy(gameObject);
     // Score.scoreValue += getScoreFromKill;
   }
 

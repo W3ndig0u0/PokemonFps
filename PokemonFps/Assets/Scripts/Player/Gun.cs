@@ -26,6 +26,8 @@ public class Gun : MonoBehaviour
   {
     // !Skottet
     RaycastHit hit;
+    flash.Play();
+
     if (Physics.Raycast(aimCam.transform.position, aimCam.transform.forward, out hit))
     {
 
@@ -51,11 +53,6 @@ public class Gun : MonoBehaviour
       {
         hit.rigidbody.AddForce(-hit.normal * impactForce);
       }
-    }
-
-    else
-    {
-      flash.Play();
     }
   }
 }
