@@ -53,10 +53,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 #Acknowledgments
 Unity - The game development platform used.
 Pokémon - The inspiration behind the game.
-
-Contact
-If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer:
-
-Email: pokemonfps@example.com
-Twitter: @PokemonFPSDev
-We hope you enjoy playing PokemonFPS and look forward to your contributions!
