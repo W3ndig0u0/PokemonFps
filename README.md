@@ -2,13 +2,13 @@
 
 PokemonFPS is a small ongoing project developed in Unity, where players can immerse themselves in a first-person shooter experience in the Pokemon world. This unique game combines the thrill of FPS gameplay with the beloved Pokemon franchise, allowing players to capture, battle, and explore in a 3D environment.
 
-Features
+#Features
 First-Person Shooter Gameplay: Experience the excitement of a first-person perspective as you navigate through various Pokemon-infested environments.
 Exploration: Explore beautifully crafted 3D environments inspired by iconic Pokemon locations, including forests, mountains, and caves.
 Getting Started
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
-Planned Features:
+#Planned Features:
 Pokemon Battles: Engage in thrilling battles with wild Pokemon that require strategic thinking and precise shooting skills.
 Pokemon Capture: Utilize your shooting abilities to capture Pokemon and add them to your collection. Be prepared for challenging capture encounters!
 Varied Arsenal: Equip yourself with an arsenal of unique weapons and gadgets tailored for capturing and battling Pokemon.
@@ -17,7 +17,7 @@ Quests and Objectives: Complete quests and objectives to uncover the secrets of 
 Multiplayer: Engage in multiplayer battles with other players, test your skills, and showcase your Pokemon collection.
 
 
-Prerequisites
+#Prerequisites
 Unity 2020.3.0f1 or later.
 Git installed on your local machine.
 Installation
@@ -47,10 +47,10 @@ Commit your changes and push them to your forked repository.
 
 Submit a pull request, providing a clear and concise description of your changes.
 
-License
+#License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+#Acknowledgments
 Unity - The game development platform used.
 Pokémon - The inspiration behind the game.
 
